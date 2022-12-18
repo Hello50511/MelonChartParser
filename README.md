@@ -17,5 +17,5 @@ OUTPUT
 ```
 
 <h1>API를 활용한 웹사이트</h1>
-![ezgif-2-b38ee91297](https://user-images.githubusercontent.com/97099236/208281616-550052c7-4d5a-45a1-81d7-3c50eed3be97.gif)
+<img src="https://user-images.githubusercontent.com/97099236/208281616-550052c7-4d5a-45a1-81d7-3c50eed3be97.gif">
 
