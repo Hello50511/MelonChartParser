@@ -2,7 +2,7 @@
 
 멜론차트의 노래 아티스트, 사진, 이름을 가져옵니다.<br>
 
-테스트 결과
+OUTPUT
 
 ```json
 [
@@ -15,3 +15,7 @@
   ...
 ]
 ```
+
+<h1>API를 활용한 웹사이트</h1>
+![ezgif-2-b38ee91297](https://user-images.githubusercontent.com/97099236/208281616-550052c7-4d5a-45a1-81d7-3c50eed3be97.gif)
+
