@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
     "express.js": "^1.0.0",
     "request": "^2.88.2"
   },
   "name": "melon-chart-parser",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
