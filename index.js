@@ -2,7 +2,9 @@ const express = require("express");
 const app = express();
 var cheerio = require("cheerio");
 var request = require("request");
+var cors = require("cors");
 
+app.use(cors());
 var url = "https://www.melon.com/chart/";
 
 app.get("/", (req, res) => {
